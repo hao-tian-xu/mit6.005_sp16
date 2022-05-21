@@ -4,7 +4,7 @@
 
 This repository shares the learning process of the course 6.031 with online materials from MIT OCW. The results are divided into the following two parts:
 
-1. Problem sets and final project solutions (with commit history) in [this repository](https://github.com/splendidField/mit6.031_sp16_pset)
+1. Problem sets and final project solutions (with commit history) in [this repository](https://github.com/vainField/mit6.031_sp16_pset)
 
    - Problem sets' solution codes are in `problemSets/ps?/src` and `test` folders.
    - The final project is in `abcplayer`.
